@@ -30,7 +30,6 @@ FOUNDATION_EXPORT const unsigned char KTVHTTPCacheVersionString[];
 #import "KTVHCDataResponse.h"
 #import "KTVHCDataCacheItem.h"
 #import "KTVHCDataCacheItemZone.h"
-#import "KTVHCPathTool.h"
 
 #endif
 
