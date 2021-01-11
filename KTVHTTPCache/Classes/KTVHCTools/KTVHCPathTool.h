@@ -10,6 +10,8 @@
 
 @interface KTVHCPathTool : NSObject
 
+@property (class) NSString *customBasePath;
+
 + (NSString *)logPath;
 + (NSString *)archivePath;
 + (NSString *)directoryPathWithURL:(NSURL *)URL;
